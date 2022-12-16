@@ -2,4 +2,4 @@
 - Bootstrap
 
 
-site is published at: https://apelsinu.github.io/Architects/
+site is published at: https://vladterebey.github.io/Architects/
